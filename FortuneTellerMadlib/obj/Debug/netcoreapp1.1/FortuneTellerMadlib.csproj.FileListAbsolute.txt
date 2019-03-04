@@ -1,0 +1,21 @@
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.deps.json
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.runtimeconfig.json
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.runtimeconfig.dev.json
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.AssemblyInfo.cs
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.dll
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.pdb
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.dll
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.pdb
+C:\Users\KathleenWest\Dropbox\Personal\KatieGirl.Net\www\portfolio\C#\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.deps.json
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.runtimeconfig.json
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.runtimeconfig.dev.json
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\bin\Debug\netcoreapp1.1\FortuneTellerMadlib.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.AssemblyInfoInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.AssemblyInfo.cs
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\FortuneTellerMadlib\FortuneTellerMadlib\obj\Debug\netcoreapp1.1\FortuneTellerMadlib.pdb

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Description>/// <summary>
+/// Title: Fortune Teller MadLib Program: 
+/// 
+/// About: Users get their fortune by entering words that turn
+/// into Wacky Madlibs. They can choose a number that
+/// specifies a particular Madlib or let the program
+/// chose (Randomize) for them.
+/// 
+/// Author: Kathleen West
+/// Website:http://www.katiegirl.net
+/// Notes: I programmed this as an example program for
+/// my C# portfolio on my website. 
+/// </summary></Description>
+    <Copyright>Kathleen West</Copyright>
+    <Authors>Kathleen West</Authors>
+    <Company>Independent Programmer</Company>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp1.1\FortuneTellerMadlib.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
